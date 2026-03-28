@@ -1,6 +1,6 @@
 # Hi, I'm Purujeet Samantaray 👋
 
-I’ve been working on Python, SQL, and data science, and lately I’ve been focusing more on machine learning, deep learning, and Gen AI by building hands-on projects.
+I’ve been working on Python, SQL, and data science, and focused on building practical ML systems and real-world data projects, deep learning, and Gen AI by building hands-on projects.
 
 ---
 
