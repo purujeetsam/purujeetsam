@@ -1,31 +1,32 @@
-# Hi, I'm Purujeet Samantaray👋
+# Hi, I'm Purujeet Samantaray 👋
 
-I'm currently learning data science and building projects to understand how things actually work, not just theory.
+I’ve been working on Python, SQL, and data science, and lately I’ve been focusing more on machine learning, deep learning, and Gen AI by building hands-on projects.
 
 ---
 
 ## Skills
 - Python
-- Machine Learning basics
-- Data Analysis (Pandas, NumPy)
-- Scikit-learn
-- Data Visualization
+- SQL
+- Machine Learning
+- Deep Learning (basics)
+- Data Science
+- Scikit-learn, Pandas, NumPy
 
 ---
 
 ## Projects
 
 ### AI-Based Hiring Prediction System
-- Built a model to predict whether a candidate gets hired or rejected
+- Built a model to predict hiring decisions from resume data
 - Worked with text data using TF-IDF
-- Tried multiple models and found Random Forest worked best
+- Compared multiple models and found Random Forest performed best
 
 ---
 
 ## What I'm Working On
-- Improving my ML and data skills through projects
-- Understanding how real-world problems are solved using data
-- Preparing for internships
+- Building more real-world ML and data projects
+- Improving practical understanding (not just theory)
+- Preparing for internships in data/ML roles
 
 ---
 
