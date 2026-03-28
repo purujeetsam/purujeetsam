@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Purujeet Samantaray👋
 
-<!--
-**Purujeetsam/Purujeetsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning data science and building projects to understand how things actually work, not just theory.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Machine Learning basics
+- Data Analysis (Pandas, NumPy)
+- Scikit-learn
+- Data Visualization
+
+---
+
+## Projects
+
+### AI-Based Hiring Prediction System
+- Built a model to predict whether a candidate gets hired or rejected
+- Worked with text data using TF-IDF
+- Tried multiple models and found Random Forest worked best
+
+---
+
+## What I'm Working On
+- Improving my ML and data skills through projects
+- Understanding how real-world problems are solved using data
+- Preparing for internships
+
+---
+
+## Connect
+- LinkedIn: www.linkedin.com/in/purujeet-samantaray-
